@@ -127,7 +127,11 @@ delay_ms(50); }
 
 ![WhatsApp Image 2025-11-11 at 13 25 47_313b70ef](https://github.com/user-attachments/assets/67fbb586-16be-4ac2-8776-a12180d9abd1)
 The stepper motor rotates step by step in the forward direction, showing successful interfacing with the ARM LPC1768 processor.
-https://github.com/user-attachments/assets/cf3942a0-7b5b-4b41-af3d-584a615e064b
+
+
+https://github.com/user-attachments/assets/006bb74c-3637-4a22-92f7-b75097bc929d
+
+
 
 # Result :
 Thus, an Embedded C program was written and executed to interface a Stepper Motor with ARM LPC1768 processor successfully.
